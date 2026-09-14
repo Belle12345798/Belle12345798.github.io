@@ -10,21 +10,22 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: flase # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: flase # includes a list of news items
+  scrollable: flase # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: flase
+  scrollable: flase # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 ##关于我
+
 你们好，我是陈欣悦，目前是华东师范大学数学系26级在读本科生。
 我的研究兴趣主要聚焦于代数学及ai4math等领域，正在不断努力学习中。
 会使用基础的LaTex编写笔记，最近正在学习lean
