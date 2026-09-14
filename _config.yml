@@ -7,9 +7,9 @@ first_name: Xinyue
 middle_name: 
 last_name: Chen
 contact_note: >
-  please contact me at the following email adress:10251510543@stu.ecnu.edu.cn
+  please contact me at the following email address: 10251510543@stu.ecnu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  an ordinary student majoring in math,interested in algebra
+  an ordinary student majoring in math, interested in algebra
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
